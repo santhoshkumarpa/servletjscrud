@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Group1",
+            "request": "launch",
+            "mainClass": "Group1",
+            "projectName": "webapp1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "webapp1"
+        }
+    ]
+}
